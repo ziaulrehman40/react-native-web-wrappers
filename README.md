@@ -18,6 +18,13 @@ Some implementations(like Alert) are copied from some other open source places, 
 
 `Router`: Is useable for generic routes implementation using `react-router` and `react-router-native`.
 
+### How to use?
+Simply place the wrappers at some place in your project, and import them like
+```
+import Alert from `path/to/folder/wrappers/Alert/Alert`
+```
+And it will load appropriate file for each platform. You can also choose to create some aliases instead, for webpack, if you like.
+
 ### TODO:
 
 1- Add description of each wrapper individually in the readme.
