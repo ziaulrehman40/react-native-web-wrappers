@@ -1,8 +1,9 @@
+
 # react-native-web-wrappers
 
 This contains some wrappers i have wrote for different components in my journey of converting an existing RN app to RNW. **Some or most of the wrappers here are still WIP, even ones which are implemented are only as per our use case and does not cover all cases hence cannot be used as generic wrappers.**
 
-(You can find my blog series on converting RN app to RNW here.(WIP at the time of writing).)[https://medium.com/@ziaulrehman/part-1-converting-react-native-app-to-react-native-web-react-pwa-in-monorepo-architecture-34b43cad74b8]
+[You can find my blog series on converting RN app to RNW here(WIP at the time of writing), i created this repository for this series.](https://medium.com/@ziaulrehman/part-1-converting-react-native-app-to-react-native-web-react-pwa-in-monorepo-architecture-34b43cad74b8)
 
 If you find these wrappers helpful and want to contribute an enhancement, please do.
 
